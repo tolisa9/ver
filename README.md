@@ -2,6 +2,8 @@
 
 #EXTINF:-1, HBO
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1, HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
 #EXTINF:-1, HBO 2
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
 #EXTINF:-1, fox movies
