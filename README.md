@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1, HBO
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF:-1, HBO 2
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+#EXTINF:-1, fox movies
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/27.m3u8
+#EXTINF:-1, space hd
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1, studio universal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:-1, A&E
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/36.m3u8
+#EXTINF:-1, Warner Channel
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
+#EXTINF:-1, TNT Series
+#EXTINF:-1, Sony
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
+#EXTINF:-1, Canal Hollywood
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/22.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/dia-de-los-abuelos/wp-content/uploads/2017/05/blano.png",MONTECARLO TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 
