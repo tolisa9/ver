@@ -565,8 +565,5 @@ http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-xB5EeUKkthA/UtBFE-lc6_I/AAAAAAAAADQ/LGIIDvpm_tQ/w800-h800/logo%2Bcanal%2B25%2Bvetor.png",CANAL 25 JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
-http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
-
 #EXTINF:-1 tvg-logo="http://cielotvcristiana.com/images/LOGO.png",CIELO TV
 http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/playlist.m3u8
