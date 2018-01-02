@@ -212,9 +212,6 @@ http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1164_2_22121.png",TEC TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", Jasmin Tv
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="LATINO", AmericaTeve MIAMI
 http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
 
