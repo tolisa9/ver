@@ -19,8 +19,112 @@ http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8
 #EXTINF:-1, Canal Hollywood
 http://185.152.66.150:25461/live/peliculas-series/fanstvapp/22.m3u8
+#EXTINF:-1, history hd
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:-1, animal planet
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:-1, discovery channel hd
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:-1, discovery science
+http://185.152.66.150:25461/live/culturales/fanstvapp/70.m3u8
+#EXTINF:-1, discovery turbo
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:-1, garage tv
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1, h2
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+#EXTINF:-1, natgeo wil hd
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+#EXTINF:-1, boomerang
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:-1, disney channel
+http://185.152.66.150:25461/live/infantiles/fanstvapp/61.m3u8
+#EXTINF:-1, disney junior
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8
+#EXTINF:-1, disney xd
+http://185.152.66.150:25461/live/infantiles/fanstvapp/59.m3u8
+#EXTINF:-1, boing
+http://185.152.66.150:25461/live/infantiles/fanstvapp/65.m3u8
+#EXTINF:-1, tiin
+http://185.152.66.150:25461/live/infantiles/fanstvapp/54.m3u8
+#EXTINF:-1, tooncast
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+#EXTINF:-1, amc hd
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1, cinecanal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8
+#EXTINF:-1, cinemax hd
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8
+#EXTINF:-1, tnt 1
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
+#EXTINF:-1, tnt2
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
+#EXTINF:-1, tnt3
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(07)/index.m3u8
+#EXTINF:-1, bein sports
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/49.m3u8
+#EXTINF:-1, dxtv
+http://186.33.227.198/DXTV/smil:DXTV.smil/master.m3u8
+#EXTINF:-1, eurosport
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/44.m3u8
+#EXTINF:-1, winsports
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
+#EXTINF:-1, claro sports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1, f1 latino
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(04)/index.m3u8
+#EXTINF:-1, la liga
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
 
 
+#EXTINF:-1, repretel canal 11
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/playlist.m3u8
+#EXTINF:-1, canal 36 limon tv
+http://servicioamerica.com:1935/8022/8022/chunklist_w50700931.m3u8
+#EXTINF:-1, canal 4 repretel
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1, canal 6 repretel
+http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1, cdr canal 2
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b1098304_sles.m3u8
+#EXTINF:-1, telenord 8
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w588013183.m3u8
+#EXTINF:-1, telenord 12
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/chunklist_w602884123.m3u8
+#EXTINF:-1, ser tv
+http://162.213.123.181:1935/sertv/live/chunklist_w548439273.m3u8
+#EXTINF:-1, canal once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1790447454_b1300000_slesp.m3u8
+#EXTINF:-1, de pelicula plus
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/30.m3u8
+#EXTINF:-1, azteca honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1, telemundo 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, telemundo 52
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, etc chile
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1, oromar tv
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1, wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1, canal 5 de mexico
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(03)/index.m3u8
+#EXTINF:-1, canal 5 de mexico opc 2
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(04)/index.m3u8
+#EXTINF:-1, gala tv
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(03)/index.m3u8
+#EXTINF:-1, gala tv2
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(04)/index.m3u8
+#EXTINF:-1, gala tv3
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/Stream(04)/index.m3u8
+#EXTINF:-1, azteca trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1, azteca plus
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8
+#EXTINF:-1, rcg tv
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w828804215.m3u8
 #EXTINF:-1 tvg-logo="http://www.montecarlotv.com.uy/dia-de-los-abuelos/wp-content/uploads/2017/05/blano.png",MONTECARLO TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0002
 
